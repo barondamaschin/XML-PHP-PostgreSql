@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <books>
+    <author>Margaret Cavendish</author>
+    <title>The Blazing World and Other Writings</title>
+  </books>
+  <books>
+    <author>Mary Wollstonecraft Shelley</author>
+    <title>Frankenstein</title>
+  </books>
+  <books>
+    <author>Jules Verne</author>
+    <title>Journey to the Center of the Earth</title>
+  </books>
+  <books>
+    <author>H.G. Wells</author>
+    <title>The Time Machine</title>
+  </books>
+  <books>
+    <author>H.G. Wells</author>
+    <title>The War of the Worlds</title>
+  </books>
+  <books>
+    <author>Aldous Huxley</author>
+    <title>Brave New World</title>
+  </books>
+  <books>
+    <author>George Orwell</author>
+    <title>Nineteen Eighty-Four</title>
+  </books>
+  <books>
+    <author>Ivan Penev</author>
+    <title></title>
+  </books>
+</root>
